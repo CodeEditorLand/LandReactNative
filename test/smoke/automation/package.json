@@ -20,7 +20,7 @@
     "@types/debug": "4.1.12",
     "@types/mkdirp": "^2.0.0",
     "@types/ncp": "2.0.8",
-    "@types/node": "22.x",
+    "@types/node": "24.x",
     "@types/shell-quote": "^1.7.5",
     "@types/tmp": "0.2.6",
     "cpx2": "8.0.0",
